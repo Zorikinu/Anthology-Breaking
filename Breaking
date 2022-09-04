@@ -3,7 +3,7 @@
    "description":"Breaking news!! A new series to bring you the latest events and characters from the game Azur Lane as fast as possible! Bringing you plenty of comics to make you love Azur Lane even more!",
    "artist":"Various",
    "author":"Various",
-   "cover":"https://i.imgur.com/QcmWETT.jpg",
+   "cover":"https://i.imgur.com/U1bdWPx.jpg",
    "chapters":{
       "01":{
          "title":"The Faint Fever Of... Love?",
@@ -804,6 +804,14 @@
             "Skeleton Warriors":"/proxy/api/imgur/chapter/0cwXE67/"
          },
          "last_updated":"1661892820"
+      },
+      "101":{
+         "title":"Your Maid Order's Up!",
+         "volume":"08",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/rSgO7Wz/"
+         },
+         "last_updated":"1662318450"
       }
    }
 }
